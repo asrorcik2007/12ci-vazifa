@@ -1,0 +1,6 @@
+{
+  "products": [{ "id": 1, "name": "Product 1", "price": 100 }],
+  "users": [{ "id": 1, "name": "User 1", "email": "user1@example.com" }],
+  "orders": [{ "id": 1, "productId": 1, "quantity": 2 }],
+  "comments": [{ "id": 1, "productId": 1, "text": "Great product!" }]
+}
